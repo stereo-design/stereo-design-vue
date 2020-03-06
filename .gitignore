@@ -1,0 +1,8 @@
+node_modules
+lib
+.idea
+.vscode
+.npmrc
+package-lock.json
+.cache
+dist
